@@ -1,0 +1,13 @@
+magic version contents
+				|-content
+				|-contents content
+							|-object
+							|	|-newObject
+							|	|	|-TC_OBJECT classDesc newHandle classData[]
+							
+							|	|					|-newClassDesc
+							|						|-nullReference
+							|						|-(ClassDesc)prevObject
+							|	|-blockdata
+							|	
+				
